@@ -1,1 +1,1 @@
-# ads-config-v2
+# ios-ads-config
