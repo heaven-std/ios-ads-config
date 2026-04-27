@@ -1,5 +1,5 @@
 {
-  "name": "ads-config-v2",
+  "name": "ios-ads-config",
   "version": "1.0.0",
   "scripts": {
     "deploy": "wrangler deploy"
